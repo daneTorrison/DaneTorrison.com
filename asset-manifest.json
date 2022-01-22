@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DaneTorrison.com/static/css/main.1097f058.css",
+    "main.js": "/DaneTorrison.com/static/js/main.9560b030.js",
+    "static/js/787.bbe01249.chunk.js": "/DaneTorrison.com/static/js/787.bbe01249.chunk.js",
+    "index.html": "/DaneTorrison.com/index.html",
+    "main.1097f058.css.map": "/DaneTorrison.com/static/css/main.1097f058.css.map",
+    "main.9560b030.js.map": "/DaneTorrison.com/static/js/main.9560b030.js.map",
+    "787.bbe01249.chunk.js.map": "/DaneTorrison.com/static/js/787.bbe01249.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1097f058.css",
+    "static/js/main.9560b030.js"
+  ]
+}
