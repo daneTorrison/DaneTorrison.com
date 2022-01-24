@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DaneTorrison.com/static/css/main.2067447f.css",
-    "main.js": "/DaneTorrison.com/static/js/main.c947649b.js",
-    "static/js/787.bbe01249.chunk.js": "/DaneTorrison.com/static/js/787.bbe01249.chunk.js",
-    "static/media/Resume.pdf": "/DaneTorrison.com/static/media/Resume.6343117c851bf76e7873.pdf",
-    "index.html": "/DaneTorrison.com/index.html",
-    "main.2067447f.css.map": "/DaneTorrison.com/static/css/main.2067447f.css.map",
-    "main.c947649b.js.map": "/DaneTorrison.com/static/js/main.c947649b.js.map",
-    "787.bbe01249.chunk.js.map": "/DaneTorrison.com/static/js/787.bbe01249.chunk.js.map"
+    "main.css": "/static/css/main.2067447f.css",
+    "main.js": "/static/js/main.b6452b00.js",
+    "static/js/787.bbe01249.chunk.js": "/static/js/787.bbe01249.chunk.js",
+    "static/media/Resume.pdf": "/static/media/Resume.6343117c851bf76e7873.pdf",
+    "index.html": "/index.html",
+    "main.2067447f.css.map": "/static/css/main.2067447f.css.map",
+    "main.b6452b00.js.map": "/static/js/main.b6452b00.js.map",
+    "787.bbe01249.chunk.js.map": "/static/js/787.bbe01249.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2067447f.css",
-    "static/js/main.c947649b.js"
+    "static/js/main.b6452b00.js"
   ]
 }
