@@ -46,5 +46,11 @@ code {
 }
 
 .btn-group-lg{
-  padding-right: 52px;
+  padding-right: 5px;
+}
+
+.btn:hover {
+  background-color: #5c5c5c;
+  border-color: #5c5c5c; 
+  
 }
